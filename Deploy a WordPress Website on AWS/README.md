@@ -1,6 +1,10 @@
 <h1>Deploy a WordPress Website on AWS</h1>
 
+<<<<<<< HEAD
 <img src="1._WordPress_Project_Reference_Architecture.jpg" alt="WordPress_Project_Reference_Architecture" width="1400" height="250">
+=======
+<img src="1._WordPress_Project_Reference_Architecture.jpg" alt="WordPress_Project_Reference_Architecture">
+>>>>>>> 59f22421a9440075fcee1231c2683aabede752f1
 
 <h3>Introduction</h3>
 
