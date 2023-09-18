@@ -1,6 +1,6 @@
 <h1># Host-A-Static-Website-In-A-3-tier-VPC-</h1> 
 
-<img src='Host-A-Static-Website-In-A-3-tier-VPC Reference Architecture.png' alt='Host-A-Static-Website-In-A-3-tier-VPC Reference Architecture'>
+<img src="Host-A-Static-Website-In-A-3-tier-VPC Reference Architecture.png" alt="Host-A-Static-Website-In-A-3-tier-VPC Reference Architecture">
 
 <h2>Introduction</h2>
 
