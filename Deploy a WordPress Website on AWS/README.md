@@ -1,6 +1,6 @@
 <h1>Deploy a WordPress Website on AWS</h1>
 
-<img src='1._WordPress_Project_Reference_Architecture.jpg' alt='WordPress_Project_Reference_Architecture'>
+<img src="1._WordPress_Project_Reference_Architecture.jpg" alt="WordPress_Project_Reference_Architecture" width="1400" height="250">
 
 <h3>Introduction</h3>
 
@@ -41,3 +41,17 @@
 <li>Install WordPress theme and template</li>
 <li>Clean up</li>
 </ol>
+
+<p>We will start by creating a custom 3-tier VPC using the reference architecture above. In a 3-tier reference architecture, our infrastructure is divided into 3 tiers.
+
+Tier 1 — we have the public subnet which will hold the resources such as NAT gateway, load balancer, and bastion host
+
+Tier 2 — this is our private subnet which will hold our web servers (EC2 instances)
+
+Tier 3 — another private subnet which will hold our database
+
+We will duplicate these subnets across multiple availability zones for high availability and fault tolerance.
+
+Lastly, we will create an internet gateway and route table to allow the resources in our VPC to have access to the internet.
+
+Let’s begin! </p>
