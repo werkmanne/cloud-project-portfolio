@@ -77,5 +77,6 @@ Let’s begin! </p>
 
 <p>In your VPC dashboard select VPCs or the Create VPC orange box</p>
 
+<div style="text-align: center;">
 <img src="vpc.webp" alt="VPC_Project_Reference_Architecture" width="600" height="350">
-
+</div>
